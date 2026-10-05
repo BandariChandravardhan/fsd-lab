@@ -1,0 +1,15 @@
+body {
+    color: rgb(12, 10, 7);
+    align-items: center;
+}
+
+.quiz {
+    padding: auto;
+    text-align: center;
+}
+
+button {
+    background-color: aqua;
+    text-align: center;
+    font: optional;
+}
